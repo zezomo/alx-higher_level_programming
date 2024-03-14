@@ -1,2 +1,2 @@
 -- show datebase
-SHOW TABLES;
+SHOW TABLES
