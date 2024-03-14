@@ -1,0 +1,2 @@
+-- list datebas
+SHOW DATABASES
