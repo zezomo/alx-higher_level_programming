@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 // prints a square
 
@@ -9,4 +8,3 @@ if (isNaN(process.argv[2])) {
     console.log('X'.repeat(parseInt(process.argv[2])));
   }
 }
-
