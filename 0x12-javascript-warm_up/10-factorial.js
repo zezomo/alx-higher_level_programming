@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 // computes and prints a factorial
 
@@ -11,4 +10,3 @@ function factorial (n) {
 }
 
 console.log(factorial(parseInt(process.argv[2])));
-
